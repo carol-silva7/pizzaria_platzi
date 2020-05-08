@@ -130,7 +130,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 0px;
 }
 
 .menu {
@@ -216,8 +216,7 @@ section > figure {
   /* eu inventei essas medidas */
   height: 600px;
   align-items: center;
-  margin-right: 20rem;
-}
+  }
 
 .texto-depoimento {
   width: 600px;
@@ -231,7 +230,6 @@ section > figure {
   letter-spacing: normal;
   text-align: left;
   color: #182c3f;
-  margin-left: 20rem;
 }
 
 .slider-seletor-ativo {
@@ -287,7 +285,7 @@ footer {
   letter-spacing: normal;
   text-align: left;
   color: #ffffff;
-  margin-left: 80px;
+  margin-left: 40px;
 }
 
 .nome-pessoa {
