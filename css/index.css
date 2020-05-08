@@ -217,7 +217,7 @@ section > figure {
   /* eu inventei essas medidas */
   height: 600px;
   align-items: center;
-  margin-right:20%;
+  margin-right:20rem;
 }
 
 .texto-depoimento {
@@ -232,7 +232,7 @@ section > figure {
   letter-spacing: normal;
   text-align: left;
   color: #182c3f;
-  margin-left: 20%;
+  margin-left: 20rem;
 }
 
 .slider-seletor-ativo {
