@@ -210,8 +210,8 @@ section > figure {
   align-content: center;
   justify-content: center;
   align-items: center;
+  margin: 20%;
 }
-
 .foto-depoimento {
   width: 130%;
   /* eu inventei essas medidas */
