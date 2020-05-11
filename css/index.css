@@ -219,8 +219,8 @@ section > figure {
   }
 
 .texto-depoimento {
-  width: 600px;
-  height: 160px;
+  width: 470px;
+  height: 198px;
   font-size: 26px;
   font-weight: 15;
   font-family: 'Aileron LightItalic', sans-serif;
@@ -230,6 +230,7 @@ section > figure {
   letter-spacing: normal;
   text-align: left;
   color: #182c3f;
+  margin-left: 50px;
 }
 
 .slider-seletor-ativo {
@@ -301,6 +302,7 @@ footer {
   letter-spacing: normal;
   text-align: left;
   color: #ffffff;
+  margin-left: 50px;
 }
 
 .profissao {
@@ -314,6 +316,7 @@ footer {
   letter-spacing: normal;
   text-align: left;
   color: #182c3f;
+  margin-left: 50px;
 }
 
 .texto-abaixo-logo {
