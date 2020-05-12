@@ -9,3 +9,5 @@ Composto por:
   * JAVASCRIPT 
 ```
 
+Para visualizar o site, acesse:
+ ```https://carol-silva7.github.io/pizzaria_platzi/```
