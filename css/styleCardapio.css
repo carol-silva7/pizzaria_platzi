@@ -170,11 +170,12 @@ section.pizzas > figure {
   box-shadow: 0 2px 9px 0 rgba(0, 0, 0, 0.14);
   background-color: #ffffff;
   padding: 10px;
+  float: center;
 }
 section.pizzas > figure > img {
   height: 250px;
   width: 330px;
-  align-content: center;
+  /* align-items: center;*/
 }
 h2 {
   text-align: center;
